@@ -3,6 +3,6 @@ prefix=/root/catkin_ws/devel
 Name: beginner_tutorials
 Description: Description of beginner_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/root/catkin_ws/devel/include
 Libs: -L/root/catkin_ws/devel/lib 
 Requires: 
